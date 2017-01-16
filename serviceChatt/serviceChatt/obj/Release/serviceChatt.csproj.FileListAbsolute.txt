@@ -1,0 +1,6 @@
+D:\downloads\serviceChatt\serviceChatt\bin\serviceChatt.dll.config
+D:\downloads\serviceChatt\serviceChatt\bin\serviceChatt.dll
+D:\downloads\serviceChatt\serviceChatt\bin\serviceChatt.pdb
+D:\downloads\serviceChatt\serviceChatt\obj\Release\serviceChatt.csprojResolveAssemblyReference.cache
+D:\downloads\serviceChatt\serviceChatt\obj\Release\serviceChatt.dll
+D:\downloads\serviceChatt\serviceChatt\obj\Release\serviceChatt.pdb
